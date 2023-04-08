@@ -1,6 +1,7 @@
 import streamlit as st
 import PySimpleGUI as sg
 from datetime import datetime
+import tkinter
 
 st.header('K-Project 打刻アプリ')
 
